@@ -13,26 +13,5 @@ Dieses Projekt ist eine objektorientierte Java-Simulation für ein flexibles Par
 - Konsolenbasiertes Menü
 - Objektorientiert mit Vererbung, Polymorphie & Interfaces
 
----
-
-## Projektstruktur
-
-ParkhausProjekt/
-├── src/
-│   ├── Main.java
-│   ├── model/
-│   │   ├── Fahrzeug.java
-│   │   ├── Auto.java
-│   │   ├── Motorrad.java
-│   │   ├── Parkplatz.java
-│   │   ├── Etage.java
-│   │   ├── Position.java
-│   │   └── Parkhaus.java
-│   └── service/
-│       └── ParkhausVerwalter.java
-├── bin/
-├── .gitignore
-├── README.md
-└── run.bat
 
 
