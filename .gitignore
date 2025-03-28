@@ -1,0 +1,38 @@
+# Build-Output
+bin/
+out/
+
+# IDE-Spezifisch
+.vscode/
+*.iml
+*.idea/
+.classpath
+.project
+.settings/
+
+# Temporär-/Systemdateien
+*.class
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS-spezifisch
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Java-Erweiterungscaches
+*.jar
+*.war
+*.ear
+
+# VS Code Workspace Cache
+.vscode-test/
+.vscode/
+*.code-workspace
+.history/
+
+# Andere
+*.bak
